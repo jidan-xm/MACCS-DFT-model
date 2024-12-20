@@ -31,12 +31,5 @@
 - 所需Python库：
   - `pandas`
   - `numpy`
-  - `scikit-learn`
+  - `sKlearn`
   - `shap`
-  - `matplotlib`
-
-### 使用步骤
-1. 克隆本仓库：
-   ```bash
-   git clone https://github.com/your-repo-link.git
-   cd your-repo-link
